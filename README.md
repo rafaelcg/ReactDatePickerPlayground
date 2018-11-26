@@ -1,2 +1,0 @@
-# ReactDatePickerPlayground
-Created with CodeSandbox
